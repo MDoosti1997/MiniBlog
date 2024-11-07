@@ -24,11 +24,11 @@ Frontend این پروژه با استفاده از فریم‌ورک React تو
 
 1. مخزن پروژه را کلون کنید:
     ```bash
-    git clone https://github.com/username/repository-name.git
+    git clone https://github.com/MDoosti1997/MiniBlog.git
     ```
 2. به پوشه backend پروژه بروید:
     ```bash
-    cd repository-name/backend
+    cd MiniBlog/backend
     ```
 3. وابستگی‌ها را نصب کنید:
     ```bash
